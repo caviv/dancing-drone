@@ -3,7 +3,7 @@ Making a CrazyFlie drone dance to music beats
 
 In [GeekCon 2013]http://www.c2kb.com/geekcon/) we have created a real cool project. Sending the BitCraze CrazyFlie quad copter drones for a dance to music beats.
 
-We used python the the cflient lib to connect to the drones via the computer.
+We used python the the [cflient lib](https://github.com/bitcraze/crazyflie-clients-python) to connect to the drones via the computer.
 
 Here is a demonstration of how it worked:
 
